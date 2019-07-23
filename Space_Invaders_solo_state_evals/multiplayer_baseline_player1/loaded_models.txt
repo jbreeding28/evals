@@ -1,0 +1,1 @@
+{'load_path': '/home/jack/models/SpaceInvaders_new_multiplayer_baseline_player1'}
