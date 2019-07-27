@@ -1,0 +1,1 @@
+{'load_path': '/home/jack/models/SpaceInvaders_random'}
