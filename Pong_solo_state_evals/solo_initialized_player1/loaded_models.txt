@@ -1,0 +1,1 @@
+{'load_path': '/home/jack/models/Pong_solo_initialized_player1'}
